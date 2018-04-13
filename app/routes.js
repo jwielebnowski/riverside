@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
-import WelcomePage from './components/welcome/mainPage';
+import WelcomePage from './components/welcome/welcomePage';
 
 export default (
 	<Switch>

@@ -11,7 +11,6 @@ class WelcomePage extends Component {
         this.state = { isPlaying: true };
     }
     render() {
-        // let divStyle = {color: 'red'};
         return (
       <section>
         <div  styleName="welcome">Welcome</div>
